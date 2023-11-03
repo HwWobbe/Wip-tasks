@@ -1,8 +1,10 @@
 # Wip-tasks
 (small) w(ork) i(n) p(rocess) Tasks
 
-## first Commit
+### first Commit
 ...
+
+## Canadian Postal Code 'hints':
 
 Toronto is a large Canadian city that like all of Canada, has been encoded for Mail Delivery purposes.
 
