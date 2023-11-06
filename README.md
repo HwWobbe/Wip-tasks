@@ -21,7 +21,7 @@ Together, the first 3 characters refer to an Area called the FSA (Forward Sortat
 Author notes:
 
 - get feed-back from specific Audiences prior to working ahead too far.
-- ensure this project is fiunded on good Privacy principles that recognize:
+- ensure this project is founded on good Privacy principles that recognize:
   - the "co-owner" rights of a Subject with respect to "personal" (Name + Address of Residence) information
   - municipal addresses are deemed to be public domain - freely available via "drive-by" observation
   - latitufdde and longitude are open source and public domain geographic references, used extensively in navigation systems
