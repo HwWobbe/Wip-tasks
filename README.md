@@ -27,4 +27,4 @@ Author notes:
   - latitufdde and longitude are open source and public domain geographic references, used extensively in navigation systems
   - ocer-lapping data sources will frequently demonstrate inconsistence errors
     - data errors are increasing from hsitorical rates due to the proliferation of sources
-  - "Preponderance of Evidence" is the stadard that must be met in cival disputes that arise form errors and consequences
+  - "Preponderance of Evidence" is the standard that must be met in cival disputes that arise form errors and consequences
