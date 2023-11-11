@@ -21,7 +21,8 @@ Together, the first 3 characters refer to an Area called the FSA (Forward Sortat
 Author notes:
 
 - get feed-back from specific Audiences prior to working ahead too far.
-- build this documentation to meet the emerfging needs of StringsTheory 
+  - ...
+- build this documentation to meet the emerging needs of StringsTheory 
 - ensure this project is founded on good Privacy principles that recognize:
   - the "co-owner" rights of a Subject with respect to "personal" (Name + Address of Residence) information
   - municipal addresses are deemed to be public domain - freely available via "drive-by" observation
