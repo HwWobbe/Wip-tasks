@@ -22,7 +22,10 @@ Author notes:
 
 - get feed-back from specific Audiences prior to working ahead too far.
   - ...
-- build this documentation to meet the emerging needs of StringsTheory 
+- build this documentation to meet the emerging needs of StringsTheory
+  - ThreadsTheory is more appropriate than Strings...
+    - this can build into share MicroContent for ( Woof Warp )Tapestry
+      - wp:( cartoon )
 - ensure this project is founded on good Privacy principles that recognize:
   - the "co-owner" rights of a Subject with respect to "personal" (Name + Address of Residence) information
   - municipal addresses are deemed to be public domain - freely available via "drive-by" observation
