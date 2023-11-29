@@ -20,7 +20,7 @@ Together, the first 3 characters refer to an Area called the FSA (Forward Sortat
 
 Author notes:
 
-- Build this short file to support the proiposal to build a shared DataDictionary that includes NameSpace capabilities.
+- Build this short file to support the proposal to build a shared DataDictionary that includes NameSpace capabilities.
   - ...
 - create a separate page for this Postal Codes information
   - add a destination link to this README file
@@ -38,3 +38,5 @@ Author notes:
     - data errors are increasing from hsitorical rates due to the proliferation of sources
   - "Preponderance of Evidence" is the standard that must be met in cival disputes that arise form errors and consequences
     - implications include: ...
+   
+Thought Leadership for the 2030(s)
