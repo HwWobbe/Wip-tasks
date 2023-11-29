@@ -38,5 +38,8 @@ Author notes:
     - data errors are increasing from hsitorical rates due to the proliferation of sources
   - "Preponderance of Evidence" is the standard that must be met in cival disputes that arise form errors and consequences
     - implications include: ...
-   
+
+<hr>
+
 Thought Leadership for the 2030(s)
+...
