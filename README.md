@@ -43,3 +43,6 @@ Author notes:
 
 Thought Leadership for the 2030(s)
 ...
+
+* Build a 3 foil deck
+
