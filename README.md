@@ -21,7 +21,7 @@ Together, the first 3 characters refer to an Area called the FSA (Forward Sortat
 Author notes:
 
 - Build this short file to support the proposal to build a shared DataDictionary that includes NameSpace capabilities.
-  - ...
+  - defer this until Jr promotes ...bags...
 - create a separate page for this Postal Codes information
   - add a destination link to this README file
 - get feed-back from specific Audiences prior to working ahead too far.
