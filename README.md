@@ -22,6 +22,7 @@ Author notes:
 
 - Build this short file to support the proposal to build a shared DataDictionary that includes NameSpace capabilities.
   - defer this until Jr promotes ...bags...
+    - discuss this with the growing group of OpenSource cities.
 - create a separate page for this Postal Codes information
   - add a destination link to this README file
 - get feed-back from specific Audiences prior to working ahead too far.
