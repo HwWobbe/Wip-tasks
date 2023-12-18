@@ -45,5 +45,7 @@ Author notes:
 Thought Leadership for the 2030(s)
 ...
 
-* Build a 3 foil deck
+- link to the Goiogle OpenSource codes being used in CurbSide
+  - compare and contradst to OpenStreetMaps uses in GeoSpatial
+- Built a 3 foil deck
 
