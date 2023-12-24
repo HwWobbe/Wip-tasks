@@ -8,7 +8,8 @@ The integraion of GeoSpatial data shoild proceed and should precede the imminent
 
 - reference the existing Volcanoes data demo
   - prepare to show this to CivicAtlas
- 
+- revew rewards for additional contracting  
+
 ## Canadian Postal Code 'hints':
 
 Toronto is a large Canadian city that like all of Canada, has been encoded for Mail Delivery purposes.
