@@ -5,6 +5,7 @@
 ...
 
 ## GeoSpatial 'hints':
+The integraion of GeoSpatial data shoild proceed and should precede the imminent release of the plugin
 
 ## Canadian Postal Code 'hints':
 
