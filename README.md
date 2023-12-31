@@ -1,7 +1,7 @@
 # Wip-tasks
 (small) w(ork) i(n) p(rocess) Tasks
-
-...
+- 2024-01 updated after 2023-12
+- ...
 
 ## GeoSpatial 'hints':
 The integraion of GeoSpatial data shoild proceed and should precede the imminent release of the plugin
